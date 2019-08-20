@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import Slider from './components/Slider'
+import Main from './components/Main'
 
 class App extends Component {
   render() {
     return (
-      <Slider />
+      <Main />
     )
   }
 }
